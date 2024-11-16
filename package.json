@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "puppeteer": "^23.8.0"
+  },
+  "name": "dynastyprocess",
+  "version": "1.0.0",
+  "description": "SCRAPPING THE DATA OF DYNASTY PROCESS TO GET THE INFO OF NFL PLAYERS",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MUHAMMAD HASSAN JAVED",
+  "license": "ISC"
+}
